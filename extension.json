@@ -1,0 +1,13 @@
+{
+  "name": "LG-PQRCUDS0",
+  "apiVersion": "1.0.0",
+  "author": "Diego Elio Pettenò",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "LG-PQRCUDS0": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
